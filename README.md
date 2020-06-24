@@ -3,12 +3,12 @@
 This repository contains the transcriptome assemblies generated as part of the following study:
 
 <b> New non-bilaterian transcriptomes provide novel insights into the evolution of coral skeletomes.
-Conci Nicola, Wörheide Gert, Vargas Sergio </b>  
+Conci Nicola, Wörheide Gert, Vargas Sergio   </b>
 
 
 \
 <b>If you use the data please cite:</b>\
-Conci Nicola, Wörheide Gert, Vargas Sergio. 2019. New non-bilaterian transcriptomes provide novel insights into the evolution of coral skeletomes. bioRxiv 594242. https://doi.org/10.1101/594242
+Conci Nicola, Wörheide Gert, Vargas Sergio. 2019. New non-bilaterian transcriptomes provide novel insights into the evolution of coral skeletomes. <i> Genome Biology and Evolution, Volume 11 </i>: 3068–3081, https://doi.org/10.1093/gbe/evz199
 
 \
 <b>Assemblies details:</b>
